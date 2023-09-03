@@ -106,8 +106,8 @@ The following process is caried out in a step-by-step manner to acquire desired 
 ![Comparative Result Analysis](Images/image-4.png)
 
 ## Credits 
-[Aryan Gadhiya](https://github.com/aryan16x) 
-[TM Vishnu Mukundan](https://github.com/calicartels)
+[Aryan Gadhiya](https://github.com/aryan16x) <br>•
+[TM Vishnu Mukundan](https://github.com/calicartels)•
 
 
 
