@@ -11,6 +11,10 @@
 - [Training \& Testing of the Model](#training--testing-of-the-model)
 - [Text to Speech conversion](#text-to-speech-conversion)
 - [Results \& Comparison](#results--comparison)
+- [Credits](#credits)
+
+
+
 
 ### Datasets
 
@@ -100,3 +104,10 @@ The following process is caried out in a step-by-step manner to acquire desired 
 | Proposed Model    |  98.23  | 89.60 | 0.095 | 0.5203 |  
 
 ![Comparative Result Analysis](Images/image-4.png)
+
+## Credits 
+[Aryan Gadhiya](https://github.com/aryan16x) 
+[TM Vishnu Mukundan](https://github.com/calicartels)
+
+
+
