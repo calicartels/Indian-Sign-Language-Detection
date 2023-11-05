@@ -1,5 +1,5 @@
 # A Media-pipe integrated deep learning model for ISL (Alphabet) recognition and converting Text to Sound with Video Input
-
+[Presenter certificate](https://drive.google.com/file/d/1jhzWrNHUtpLznB0Wjo6-kYktff_wTFpt/view?usp=sharing) for the conference paper titled " A Media-pipe integrated deep learning model for ISL (Alphabet) recognition and converting Text to Speech with Video Input", published at the 3rd International Conference on Applied Intelligence and Informatics (AII2023), Dubai 
 ## Table of Contents
 
 - [Introduction](#introduction)
